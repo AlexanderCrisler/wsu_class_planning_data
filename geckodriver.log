@@ -1,0 +1,83 @@
+1597710677546	geckodriver	INFO	Listening on 127.0.0.1:62123
+1597710680588	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\alexc\\AppData\\Local\\Temp\\rust_mozprofiles9N2gv"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597710683376	Marionette	INFO	Listening on port 62134
+1597710683722	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597710904496	geckodriver	INFO	Listening on 127.0.0.1:62262
+1597710907529	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\alexc\\AppData\\Local\\Temp\\rust_mozprofileq9ug4U"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597710910089	Marionette	INFO	Listening on port 62271
+1597710910154	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://websvc-330.wichita.edu/CourseSearch/Scripts/jquery-2.0.0.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1597711013911	geckodriver	INFO	Listening on 127.0.0.1:62354
+1597711016939	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\alexc\\AppData\\Local\\Temp\\rust_mozprofileSfEofb"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597711019404	Marionette	INFO	Listening on port 62363
+1597711019558	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://websvc-330.wichita.edu/CourseSearch/Scripts/jquery-2.0.0.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1597711034917	geckodriver	INFO	Listening on 127.0.0.1:62418
+1597711038683	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\alexc\\AppData\\Local\\Temp\\rust_mozprofileHwzNLz"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597711041316	Marionette	INFO	Listening on port 62427
+1597711041800	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://websvc-330.wichita.edu/CourseSearch/Scripts/jquery-2.0.0.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1597711114123	geckodriver	INFO	Listening on 127.0.0.1:62499
+1597711117141	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\alexc\\AppData\\Local\\Temp\\rust_mozprofilezsLDwM"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597711119874	Marionette	INFO	Listening on port 62508
+1597711120268	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://websvc-330.wichita.edu/CourseSearch/Scripts/jquery-2.0.0.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1597711501884	geckodriver	INFO	Listening on 127.0.0.1:62696
+1597711504912	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\alexc\\AppData\\Local\\Temp\\rust_mozprofilezrRkZ0"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597711507432	Marionette	INFO	Listening on port 62705
+1597711507528	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://websvc-330.wichita.edu/CourseSearch/Scripts/jquery-2.0.0.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1597711530994	geckodriver	INFO	Listening on 127.0.0.1:62759
+1597711534024	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\alexc\\AppData\\Local\\Temp\\rust_mozprofileEFF1qq"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597711536586	Marionette	INFO	Listening on port 62768
+1597711536641	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://websvc-330.wichita.edu/CourseSearch/Scripts/jquery-2.0.0.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1597712019304	geckodriver	INFO	Listening on 127.0.0.1:63035
+1597712022333	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\alexc\\AppData\\Local\\Temp\\rust_mozprofile7LJo33"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597712024915	Marionette	INFO	Listening on port 63044
+1597712024961	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://websvc-330.wichita.edu/CourseSearch/Scripts/jquery-2.0.0.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1597712063939	geckodriver	INFO	Listening on 127.0.0.1:63105
+1597712066958	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\alexc\\AppData\\Local\\Temp\\rust_mozprofiledRTPyF"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597712069556	Marionette	INFO	Listening on port 63114
+1597712069602	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://websvc-330.wichita.edu/CourseSearch/Scripts/jquery-2.0.0.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1597712394103	geckodriver	INFO	Listening on 127.0.0.1:63324
+1597712397138	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\alexc\\AppData\\Local\\Temp\\rust_mozprofile5BUrA5"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597712399781	Marionette	INFO	Listening on port 63333
+1597712400275	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://websvc-330.wichita.edu/CourseSearch/Scripts/jquery-2.0.0.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1597712600442	geckodriver	INFO	Listening on 127.0.0.1:63472
+1597712603470	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\alexc\\AppData\\Local\\Temp\\rust_mozprofilet3Rdt8"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597712606033	Marionette	INFO	Listening on port 63481
+1597712606090	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://websvc-330.wichita.edu/CourseSearch/Scripts/jquery-2.0.0.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1597713253304	geckodriver	INFO	Listening on 127.0.0.1:63810
+1597713256324	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\alexc\\AppData\\Local\\Temp\\rust_mozprofilecGG4iV"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1597713258917	Marionette	INFO	Listening on port 63821
+1597713258943	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://websvc-330.wichita.edu/CourseSearch/Scripts/jquery-2.0.0.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
