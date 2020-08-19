@@ -1,5 +1,4 @@
 import bs4
-import csv
 import json
 
 exampleFile = open('ClassList.html', encoding="utf8")
@@ -13,11 +12,10 @@ for val in exampleSoup.select('h3'):
     class_names.append(val_string.replace(" ",""))
 
 class_names_file = open('class_names_file.json', 'w', newline='')
-#outputWriter = csv.writer(class_names_file)
+
 separator = "-"
 for i in range(0, len(class_names)):
     class_names[i] = class_names[i].split(separator, 1)[0]
     
-#outputWriter.writerow(class_names)
 json.dump(class_names, class_names_file)
 print("finished.")
